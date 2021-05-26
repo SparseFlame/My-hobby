@@ -1,0 +1,17 @@
+body{
+    background-color: blue;
+    text-align: center
+}
+
+#heading{
+    text-shadow: 2px;
+    color: red;
+}
+
+p{
+    color: red;
+}
+
+section{
+    padding: 20px
+}
